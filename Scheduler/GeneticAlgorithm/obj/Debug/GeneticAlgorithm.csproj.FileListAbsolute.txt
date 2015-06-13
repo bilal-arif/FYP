@@ -1,0 +1,4 @@
+D:\Uni Works\FYP\btl_GA\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.dll
+D:\Uni Works\FYP\btl_GA\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+D:\Uni Works\FYP\btl_GA\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.dll
+D:\Uni Works\FYP\btl_GA\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
